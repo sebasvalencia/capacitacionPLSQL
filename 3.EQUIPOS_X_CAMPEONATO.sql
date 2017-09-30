@@ -1,0 +1,64 @@
+prompt Importing table EQUIPOS_X_CAMPEONATO...
+set feedback off
+set define off
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 1);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 2);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 3);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 4);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 5);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 6);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 7);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 8);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 9);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 10);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 11);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 12);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 13);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 14);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 15);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 16);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 17);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 18);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 19);
+
+insert into EQUIPOS_X_CAMPEONATO (ID_CAMPEONATO, ID_EQUIPO)
+values (1, 20);
+
+prompt Done.
